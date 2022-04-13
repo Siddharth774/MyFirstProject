@@ -1,1 +1,53 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Siddharth_Sharma</title>
+        <link rel="icon" href="mysitenameimg.png">
+        <link rel="stylesheet" href="css/styles.css"> 
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="Top-Container">
+            <img class = "top-cloud"src="D:\web development\Images\cloud.png" alt="cloud-img">
+            <h1>I'm Siddharth</h1>
+            <h2 class = "heading2">a <span class="under">pro</span>grammer</h2>
+            <img src="D:\web development\Images\mountain.png" alt="mountain-img">
+            <img class = "bottom-cloud "src="D:\web development\Images\cloud.png" alt="cloud-img">
+        </div>
+        <div class="middle-container">
+            <div class="profile">"
+              <img class = "profile-img"src="D:\web development\Images\student.png" height = 200  width = 200 alt="profile-img">
+              <h2>Hello.</h2>
+              <p class = "intro">I am an Web Developer,software developer and an Engineering student.</p>
+            </div>
+            <hr>
+            <div class="skills">
+              <h2>My Skills.</h2>
+              <div class="skill-row">
+                <img class="computer-img" src="D:\web development\Images\computer.png" alt="computer-img">
+                <h3>Design and Development</h3>
+                <p class = "code-skill-description">I started learing to code in my first year of college and recently I have started learing Web Development.</p>
+              </div>
+              <div class="skill-row">
+                <img class="food-img" src="D:\web development\Images\illustration-traditional-rajasthani-cuisine-food-meal-thali-rajasthan-india-106666237.jpg" alt="food-img">
+                <h3>Being Foodie</h3>
+                <p class = "food-description">I love North Indian food specially Rajasthani food.Specially Dal Baati which is my favourite dish.</p>
+              </div>
+            </div>
+            <hr>
+            <div class="contact-me">
+              <h2>Get In Touch</h2>
+              <h3>You Love Rajasthani food as much as I do.</h3>
+              <p class = "contact-message" >Love rajasthani food as much as i do? Then we talk about the food! We can code while we eat.</p>
+              <a class="btn" href="mailto:name@email.com">CONTACT ME</a>
+            </div>
+          </div> 
+          <div class="bottom-container">
+            <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
+            <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
+            <p class = "copyright">© Siddharth Sharma.</p>
+          </div>
+          
+    </body>
+</html>
